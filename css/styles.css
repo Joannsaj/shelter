@@ -8,3 +8,12 @@ p {
 ul {
     border: 2px solid darkslateblue;
 }
+.dog {
+  border: 2px solid black;
+}
+.cat {
+  border: 2px solid black;
+}
+.kitty {
+  border: 2px solid black;
+}
