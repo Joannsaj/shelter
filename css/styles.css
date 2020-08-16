@@ -10,10 +10,14 @@ ul {
 }
 .dog {
   border: 2px solid black;
+  width: 400px;
+  cursor: pointer;
 }
 .cat {
   border: 2px solid black;
+  width: 400px;
 }
 .kitty {
   border: 2px solid black;
+  width: 400px;
 }
